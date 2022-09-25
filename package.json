@@ -1,0 +1,11 @@
+{
+  "name": "findelements",
+  "version": "1.0.0",
+  "description": "Module for a function that helps you find DOM Elements",
+  "main": "findElement.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tmpr",
+  "license": "MIT"
+}
